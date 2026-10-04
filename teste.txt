@@ -1,1 +1,0 @@
-Olá turma! Este ficheiro foi criado via API no Postman.
